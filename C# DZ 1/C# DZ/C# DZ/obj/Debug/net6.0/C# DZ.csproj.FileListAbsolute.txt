@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\bin\Debug\net6.0\C# DZ.exe
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\bin\Debug\net6.0\C# DZ.deps.json
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\bin\Debug\net6.0\C# DZ.runtimeconfig.json
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\bin\Debug\net6.0\C# DZ.dll
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\bin\Debug\net6.0\C# DZ.pdb
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\obj\Debug\net6.0\C# DZ.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\obj\Debug\net6.0\C# DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\obj\Debug\net6.0\C# DZ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\obj\Debug\net6.0\C# DZ.AssemblyInfo.cs
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\obj\Debug\net6.0\C# DZ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\obj\Debug\net6.0\C# DZ.dll
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\obj\Debug\net6.0\refint\C# DZ.dll
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\obj\Debug\net6.0\C# DZ.pdb
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\obj\Debug\net6.0\C# DZ.genruntimeconfig.cache
+C:\Users\user\Desktop\Programing'\C# DZ\C# DZ\C# DZ\obj\Debug\net6.0\ref\C# DZ.dll

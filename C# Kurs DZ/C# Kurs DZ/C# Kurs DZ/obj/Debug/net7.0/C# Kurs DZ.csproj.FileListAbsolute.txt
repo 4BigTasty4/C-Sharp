@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\bin\Debug\net7.0\C# Kurs DZ.exe
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\bin\Debug\net7.0\C# Kurs DZ.deps.json
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\bin\Debug\net7.0\C# Kurs DZ.runtimeconfig.json
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\bin\Debug\net7.0\C# Kurs DZ.dll
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\bin\Debug\net7.0\C# Kurs DZ.pdb
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\obj\Debug\net7.0\C# Kurs DZ.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\obj\Debug\net7.0\C# Kurs DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\obj\Debug\net7.0\C# Kurs DZ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\obj\Debug\net7.0\C# Kurs DZ.AssemblyInfo.cs
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\obj\Debug\net7.0\C# Kurs DZ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\obj\Debug\net7.0\C# Kurs DZ.dll
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\obj\Debug\net7.0\refint\C# Kurs DZ.dll
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\obj\Debug\net7.0\C# Kurs DZ.pdb
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\obj\Debug\net7.0\C# Kurs DZ.genruntimeconfig.cache
+C:\Users\user\Desktop\Programing'\C# Kurs DZ\C# Kurs DZ\C# Kurs DZ\obj\Debug\net7.0\ref\C# Kurs DZ.dll

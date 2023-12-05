@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\bin\Debug\net6.0\C# YouTube.exe
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\bin\Debug\net6.0\C# YouTube.deps.json
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\bin\Debug\net6.0\C# YouTube.runtimeconfig.json
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\bin\Debug\net6.0\C# YouTube.dll
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\bin\Debug\net6.0\C# YouTube.pdb
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\obj\Debug\net6.0\C# YouTube.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\obj\Debug\net6.0\C# YouTube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\obj\Debug\net6.0\C# YouTube.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\obj\Debug\net6.0\C# YouTube.AssemblyInfo.cs
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\obj\Debug\net6.0\C# YouTube.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\obj\Debug\net6.0\C# YouTube.dll
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\obj\Debug\net6.0\refint\C# YouTube.dll
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\obj\Debug\net6.0\C# YouTube.pdb
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\obj\Debug\net6.0\C# YouTube.genruntimeconfig.cache
+C:\Users\user\Desktop\Programing'\C# YouTube\C# YouTube\C# YouTube\obj\Debug\net6.0\ref\C# YouTube.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\bin\Debug\net7.0\Project ZIP.exe
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\bin\Debug\net7.0\Project ZIP.deps.json
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\bin\Debug\net7.0\Project ZIP.runtimeconfig.json
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\bin\Debug\net7.0\Project ZIP.dll
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\bin\Debug\net7.0\Project ZIP.pdb
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\obj\Debug\net7.0\Project ZIP.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\obj\Debug\net7.0\Project ZIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\obj\Debug\net7.0\Project ZIP.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\obj\Debug\net7.0\Project ZIP.AssemblyInfo.cs
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\obj\Debug\net7.0\Project ZIP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\obj\Debug\net7.0\Project ZIP.dll
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\obj\Debug\net7.0\refint\Project ZIP.dll
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\obj\Debug\net7.0\Project ZIP.pdb
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\obj\Debug\net7.0\Project ZIP.genruntimeconfig.cache
+C:\Users\user\Desktop\Programing'\C# Project ZIP\Project ZIP\Project ZIP\obj\Debug\net7.0\ref\Project ZIP.dll
